@@ -1,4 +1,6 @@
-
+//Frog Jump - Space Optimized Tabulation Approach(gfg)
+ //TC=O(n)
+ //SC=O(1)
 #include<iostream>
 using namespace std;
 #include<vector>
